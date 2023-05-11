@@ -1,0 +1,1 @@
+SELECT ResponseName, RecommendationCount from games;
